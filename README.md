@@ -82,19 +82,7 @@ We zullen nu dus eerst onze contact feature up to date brengen met de meest rece
 <a href="contact.html">Contactpagina</a>
 ```
 - [ ] Open de home page even in je browser om te testen dat de link goed werkt.
-- [ ] Gebruik de gepaste git commando's om je wijziging aan `index.html` op te nemen in de lokale git repo, en te syncen met de remote.
->**Tip!** Denk aan de conventies rondom naamgeving van de commit messages!
-
-- [ ] Voer opnieuw onderstaande commando's uit:
-```
-clear
-git branch
-git log --oneline
-```
-
-- [ ] Neem een screenshot van het resultaat. Deze screenshot plaats je in de **lokale** Screenshots folder. *(Op jouw PC/laptop dus!)* Geef deze screenshot de naam **deel3** (met extensie naar keuze).
-
-- [ ] Maak gebruik van passende git commando's om alle lokale bestanden te commiten naar git. **Synchroniseer** vervolgens je lokale repository met de online repository op GitHub.
+- [ ] Gebruik de gepaste git commando's om je wijziging aan `index.html` op te nemen in de lokale git repo, en te syncen naar de remote.
 >**Tip!** Denk aan de conventies rondom naamgeving van de commit messages!
 
 De contact feature blijft nog even in ontwikkeling (buiten scope van het labo).
