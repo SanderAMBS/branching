@@ -4,7 +4,7 @@
 In dit derde labo gaan we werken met branches.
 
 We zullen ook hier de lokale wijzigingen gaan koppelen aan een remote git repository (GitHub). 
-Alles wat gevraagd wordt dien je lokaal toe te voegen en vervolgens via de nodige commando's ook in de online repository te brengen.
+Alles wat gevraagd wordt, dien je lokaal toe te voegen en vervolgens via de nodige commando's ook in de online repository te brengen.
 
 **Let er in het bijzonder op dat alle aangemaakte branches juist gesynct worden met de remote.**
 
@@ -19,7 +19,7 @@ Je kan/mag de aanvullende toets steeds afleggen gebruik makend van alle bronnen 
 - [ ] Zorg ervoor dat de startsituatie *(deze repository)* van het labo op jouw pc **gecloned** wordt. Maak hiervoor gebruik van het passende git commando. 
 
 - [ ]  Ga **na het clonen** via de console naar de gecloonde repository. Dit kan/mag je uiteraard ook doen door de nieuwe aangemaakt folder aan te klikken en hier opnieuw een Git Bash console te openen via de **Git Bash Here** optie.
->**Tip!** Controleer voor je verder werkte of je al dan niet in de juiste git repository zit! Je kan dit snel visueel vaststellen in je console.
+>**Tip!** Controleer voor je verder werkt of je al dan niet in de juiste git repository zit! Je kan dit snel visueel vaststellen in je console.
 
 ### Deel 1: aan de slag met **branches**
 
