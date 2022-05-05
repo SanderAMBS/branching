@@ -90,15 +90,5 @@ We gaan dus de branch **feature/contact-form** nog **NIET** mergen naar **dev** 
 
 ### Afronden labo
 
-- [ ] Ga terug naar de **dev** branch.
-- [ ] Na het voltooien van alle taken editeer je deze README.md file.
-      **LET OP!** dit doe je opnieuw in je lokale README.md file!
-      Plaats alle tasks op voltooid door de markup te wijzigen van [ ] naar [x].
->**Tip!** Je kan hier gerust VS Code gaan gebruiken. Deze heeft ook een preview mode om met markdown aan de slag te gaan.
-
-- [ ] Maak gebruik van git commando's om vervolgens deze wijzigingen aan je lokale git repository toe te voegen.
-      Sync de lokale **dev** branch vervolgens naar de remote.
-
 - [ ] Ga naar de **master** branch en zorg ervoor dat deze branch geüpdatet wordt met de huidige inhoud van de **dev** branch.
-
-- [ ] Zorg ervoor dat je lokale repository nu ook nog een laatste keer gesynchroniseerd wordt naar deze GitHub repository toe.
+- [ ] Zorg ervoor dat je bijgewerkte lokale **master** branch nu ook gesynchroniseerd wordt naar deze GitHub repository toe.
