@@ -57,17 +57,7 @@ Je kan/mag de aanvullende toets steeds afleggen gebruik makend van alle bronnen 
       Synchroniseer hierna je lokale repository met je remote repository.
 >**Tip!** Denk aan de conventies rondom naamgeving van de commit messages!
 
-- [ ] Ga naar de **dev** branch en voer onderstaande commandos uit:
-```
-clear
-git branch
-git log --oneline
-```
-
-- [ ] Neem een screenshot van het resultaat. Deze screenshot plaats je in de **lokale** Screenshots folder. *(Op jouw PC/laptop dus!)* Geef deze screenshot de naam **deel1** (met extensie naar keuze).
-
-- [ ] Maak gebruik van passende git commando's om alle lokale bestanden te commiten naar git. **Synchroniseer** vervolgens je lokale repository met de online repository op GitHub.
->**Tip!** Denk aan de conventies rondom naamgeving van de commit messages!
+- [ ] Keer terug naar de **dev** branch.
 
 ### Deel 2: afronden van feature branch
 
