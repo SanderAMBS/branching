@@ -62,30 +62,9 @@ Je kan/mag de aanvullende toets steeds afleggen gebruik makend van alle bronnen 
 ### Deel 2: afronden van feature branch
 
 - [ ] Merge vervolgens de wijzigingen die je in de **feature/home-page** aangemaakt hebt in de **dev** branch.
-- [ ] Voer opnieuw onderstaande commando's uit:
-```
-clear
-git branch
-git log --oneline
-```
-
-- [ ] Neem een screenshot van het resultaat. Deze screenshot plaats je in de **lokale** Screenshots folder. *(Op jouw PC/laptop dus!)* Geef deze screenshot de naam **deel2A** (met extensie naar keuze).
-
-- [ ] Maak gebruik van passende git commando's om alle lokale bestanden te commiten naar git. **Synchroniseer** vervolgens je lokale repository met de online repository op GitHub.
->**Tip!** Denk aan de conventies rondom naamgeving van de commit messages!
+- [ ] Synchroniseer na de merge de lokale **dev** branch naar de remote.
 
 - [ ] Zorg er nu voor dat de branch **feature/home-page** verwijderd wordt, zowel **lokaal** als **remote**, m.b.v. de nodige git commando's.
-- [ ] Voer opnieuw onderstaande commando's uit:
-```
-clear
-git branch
-git log --oneline
-```
-
-- [ ] Neem een screenshot van het resultaat. Deze screenshot plaats je in de **lokale** Screenshots folder. *(Op jouw PC/laptop dus!)* Geef deze screenshot de naam **deel2B** (met extensie naar keuze).
-
-- [ ] Maak gebruik van passende git commando's om alle lokale bestanden te commiten naar git. **Synchroniseer** vervolgens je lokale repository met de online repository op GitHub.
->**Tip!** Denk aan de conventies rondom naamgeving van de commit messages!
 
 ### Deel 3: vervolg contact feature
 
